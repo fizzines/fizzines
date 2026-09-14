@@ -12,8 +12,8 @@ $\color{#90D5FF}{mm2012\ Phighting\ Greenlantern\ +more }$<br>
 
 <details>
  <summary>$\color{#007B6}{DNI}$</summary>
-$\color{#e1435e}{• Below~13~/~above~18}$<br>
-$\color{#e1435e}{• basic dni criteria}$
+$\color{#e1435e}{under~13~/~over~17}$<br>
+$\color{#e1435e}{basic dni criteria}$
 </details>
 
 <p align="left"><img width="99" height="56" alt="tumblr_5ec0e8dacaab5e8eb466740bb0063d6a_e33a9950_100" src="https://github.com/user-attachments/assets/6e62d7a1-dbca-4ad7-a99c-714911c5484b" />
